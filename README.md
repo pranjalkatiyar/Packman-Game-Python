@@ -4,7 +4,7 @@ Pacman -- classic arcade game. Use the arrow keys to navigate and eat all the wh
 
 Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding colored ghosts — red here — that pursue him. And score highest by  eating all dots and by saving yourself from red ghosts by moving Arrows.
 
-Output of the Packman code is shown below
+Output of the Packman code is shown below with 57 score
 
 ![image](https://user-images.githubusercontent.com/22562694/120080314-e9eb2180-c0d5-11eb-85f8-ab1e45f778c9.png)
 
